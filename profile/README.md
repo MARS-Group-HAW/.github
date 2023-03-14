@@ -1,0 +1,1 @@
+See our [website](https://mars-group-haw.github.io/) for more information about the MARS Group and our framework for Multi-Agent modelling.
